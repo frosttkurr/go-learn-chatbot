@@ -1,0 +1,3 @@
+https://api.telegram.org/bot5949952682:AAENHuLEy1-RXdtfDK0W9aakkr2gUSxLiqY/setWebhook?url=https://3f50-202-58-197-23.ap.ngrok.io
+
+user diharapkan agar bisa nmenambah endpoint
